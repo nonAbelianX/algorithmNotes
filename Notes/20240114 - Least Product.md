@@ -54,10 +54,7 @@ output
 0
 1
 3 0
-
 ```
-
-
 
 ## Analysis:
 
@@ -106,7 +103,7 @@ int main() {
 
         isExistsZeroArray[i] = isExistsZero;
         numNegativeArray[i] = numNegative;
-        
+
     }
 
     for (int i = 0; i < t; i++){
@@ -116,5 +113,5 @@ int main() {
             cout << 1 << "\n" << 1 << "\t" << 0 << "\n";
         }
     }
-}
+} 
 ```

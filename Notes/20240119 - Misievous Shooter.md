@@ -68,6 +68,6 @@ Possible optimal shots for the examples in the statement:
 
 ## Analysis:
 
-- Convolution. 
+- The idea of convolution. 
 
 ## Complete code

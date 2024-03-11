@@ -35,6 +35,7 @@ class solution{
             int from_r, from_c; //decide where to
             int convolutionCore[k+1][k+1];
             int maxTargets[4] = {}, countTemp;
+            
             for (int i = 1; i <5; i++){
                 maxTargets[i-1] = 0;
                 this->createCore(&convolutionCore[0][0], k+1, i, from_r, from_c);
